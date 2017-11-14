@@ -1,0 +1,10 @@
+/home/ubuntu/Brasileirao/obj/Debug/netcoreapp2.0/Brasileirao.csproj.CoreCompileInputs.cache
+/home/ubuntu/Brasileirao/obj/Debug/netcoreapp2.0/Brasileirao.AssemblyInfoInputs.cache
+/home/ubuntu/Brasileirao/obj/Debug/netcoreapp2.0/Brasileirao.AssemblyInfo.cs
+/home/ubuntu/Brasileirao/bin/Debug/netcoreapp2.0/Brasileirao.deps.json
+/home/ubuntu/Brasileirao/bin/Debug/netcoreapp2.0/Brasileirao.runtimeconfig.json
+/home/ubuntu/Brasileirao/bin/Debug/netcoreapp2.0/Brasileirao.runtimeconfig.dev.json
+/home/ubuntu/Brasileirao/bin/Debug/netcoreapp2.0/Brasileirao.dll
+/home/ubuntu/Brasileirao/bin/Debug/netcoreapp2.0/Brasileirao.pdb
+/home/ubuntu/Brasileirao/obj/Debug/netcoreapp2.0/Brasileirao.dll
+/home/ubuntu/Brasileirao/obj/Debug/netcoreapp2.0/Brasileirao.pdb
